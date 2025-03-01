@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developershubham01&label=Profile%20views&color=0e75b6&style=flat" alt="developershubham01" /> </p>
 
-- 🌱 I’m currently learning **Bachelor in Information Technology**
+- 🌱 I’m currently learning **Bachelor of Science in Information Technology**
 
 - 📫 How to reach me **techshubham2005@gamil.com**
 
