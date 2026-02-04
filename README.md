@@ -44,37 +44,26 @@
 
 <!-- skills -->
 <h2 align="center">🔥 Languages · Frameworks · Tools 🔥</h2>
-<br />
 
 <p align="center">
-<a href="https://skillicons.dev">
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,java,spring,html,css,javascript,git,mysql&theme=dark" />
 <img src="https://skillicons.dev/icons?i=react,java,spring,html,css,javascript,git,mysql&theme=light" />
 </picture>
+</p>
 
-<br />
+<hr />
 
+<!-- snake -->
+<h2 align="center">🐍 Snake Eating My Contributions 🐍</h2>
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/developershubham01/developershubham01/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/developershubham01/developershubham01/blob/output/github-snake.svg" />
   <img src="https://github.com/developershubham01/developershubham01/blob/output/github-snake.svg" />
 </picture>
-
-
-</a>
 </p>
-
-<hr />
-
-<!-- snake graph -->
-<div align="center">
-<h2>🐍 Snake Eating My Contributions 🐍</h2>
-
-<img src="https://github.com/developershubham01/developershubham01/blob/output/github-contribution-grid-snake.svg">
-
-</div>
 
 <hr />
 
