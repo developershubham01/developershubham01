@@ -57,9 +57,11 @@
 <br />
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,vscode,python,nodejs&theme=dark" />
-<img src="https://skillicons.dev/icons?i=postman,vscode,python,nodejs&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/developershubham01/developershubham01/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/developershubham01/developershubham01/blob/output/github-snake.svg" />
+  <img src="https://github.com/developershubham01/developershubham01/blob/output/github-snake.svg" />
 </picture>
+
 
 </a>
 </p>
