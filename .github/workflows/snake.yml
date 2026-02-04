@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.4.1
         with:
           github_user_name: developershubham01
           outputs: |
