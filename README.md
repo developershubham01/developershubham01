@@ -122,26 +122,31 @@
 <div align="center">
 
 <a href="https://github.com/developershubham01/MultiAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=MultiAI&theme=react" />
+<b>🔹 MultiAI</b>
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/developershubham01/cyber-intelligence360">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=cyber-intelligence360&theme=react" />
+<b>🔹 Cyber Intelligence 360</b>
 </a>
 
-<br /><br />
+<br/><br/>
 
 <a href="https://github.com/developershubham01/University-management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=University-management-System&theme=react" />
+<b>🔹 University Management System</b>
 </a>
 
+<br/><br/>
+
 <a href="https://github.com/developershubham01/Github-account-finder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=Github-account-finder&theme=react" />
+<b>🔹 Github Account Finder</b>
 </a>
 
 </div>
 
 <hr />
+
 
 
 <h3 align="center">⚡ Keep Coding · Keep Growing ⚡</h3>
