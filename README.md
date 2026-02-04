@@ -122,21 +122,21 @@
 <div align="center">
 
 <a href="https://github.com/developershubham01/MultiAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=MultiAI&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=MultiAI&theme=react" />
 </a>
 
 <a href="https://github.com/developershubham01/cyber-intelligence360">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=cyber-intelligence360&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=cyber-intelligence360&theme=react" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/developershubham01/University-management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=University-management-System&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=University-management-System&theme=react" />
 </a>
 
 <a href="https://github.com/developershubham01/Github-account-finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=Github-account-finder&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=Github-account-finder&theme=react" />
 </a>
 
 </div>
