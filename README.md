@@ -43,46 +43,28 @@
 <hr />
 
 <!-- skills -->
-<!-- skills -->
-<h2 align="center">🔥 Languages · Frameworks · Tools 🔥</h2>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+
+  </a>
+</p>
 <br />
 
-<p align="center">
-<a href="https://skillicons.dev">
-
-<!-- Frontend -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript&theme=light" />
-</picture>
-
-<br /><br />
-
-<!-- Backend -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" />
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=light" />
-</picture>
-
-<br /><br />
-
-<!-- Database -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light" />
-</picture>
-
-<br /><br />
-
-<!-- Tools -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,postman&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,postman&theme=light" />
-</picture>
-
-</a>
-</p>
-<hr />
 
 <!-- deployment -->
 <h3 align="center">Deployment</h3>
