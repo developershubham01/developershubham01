@@ -82,9 +82,7 @@
 
 </a>
 </p>
-
-<br>
-
+<hr />
 
 <!-- deployment -->
 <h3 align="center">Deployment</h3>
