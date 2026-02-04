@@ -1,26 +1,114 @@
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=developershubham01">
+
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Shubham+Sharma!;+React+%7C+Java+%7C+Spring+Boot+Developer;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
+
+<br />
+
+<!-- about me -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="logo">
-</p>
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developershubham01&label=Profile%20views&color=0e75b6&style=flat" alt="developershubham01" /> </p>
-
-- 🌱Student @ St. Wilfred’s || MCA in Computer Applications ’27 || **Aspiring Software Engineer**
-
-- 📫 How to reach me **techshubham2005@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/shubham-sharma-14608228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-sharma395/" height="30" width="40" /></a>
-<a href="https://instagram.com/code_with_shubham01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_shubham01" height="30" width="40" /></a>
+  Hi, I'm <b>Shubham Sharma</b>, Full Stack Developer 💻 (React + Java + Spring Boot + SQL) from India 🇮🇳
+  <br /><br />
+  🎓 MCA Student (Computer Applications ’27)
+  <br />
+  🚀 Aspiring Software Engineer
+  <br />
+  💡 Passionate about building scalable web applications
+  <br />
+  📚 Always learning new technologies & frameworks
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- social handles -->
+<div align="center"> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developershubham01&show_icons=true&locale=en&layout=compact" alt="developershubham01" /></p>
+<a href="https://www.linkedin.com/in/shubham-sharma-14608228a" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developershubham01&show_icons=true&locale=en" alt="developershubham01" /></p>
+<a href="mailto:techshubham2005@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developershubham01&" alt="developershubham01" /></p>
+<a href="https://instagram.com/code_with_shubham01" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+<hr />
+
+<!-- skills -->
+<h2 align="center">🔥 Languages · Frameworks · Tools 🔥</h2>
+<br />
+
+<p align="center">
+<a href="https://skillicons.dev">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,java,spring,html,css,javascript,git,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,java,spring,html,css,javascript,git,mysql&theme=light" />
+</picture>
+
+<br />
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,vscode,python,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,python,nodejs&theme=light" />
+</picture>
+
+</a>
+</p>
+
+<hr />
+
+<!-- snake graph -->
+<div align="center">
+<h2>🐍 Snake Eating My Contributions 🐍</h2>
+
+<img src="https://github.com/developershubham01/developershubham01/blob/output/github-contribution-grid-snake.svg">
+
+</div>
+
+<hr />
+
+<!-- stats -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<div align=center>
+
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=developershubham01"/>
+
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=developershubham01&show_icons=true"/>
+
+</div>
+
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=developershubham01"/>
+
+<hr />
+
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+
+<p align="center">
+
+✅ React + Spring Boot Full Stack App  
+<br />
+✅ Student Management System  
+<br />
+✅ SQL House Rental Database  
+<br />
+✅ REST API Projects  
+<br />
+✅ Java Mini Projects  
+
+</p>
+
+<hr />
+
+<h3 align="center">⚡ Keep Coding · Keep Growing ⚡</h3>
