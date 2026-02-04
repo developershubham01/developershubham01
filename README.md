@@ -117,22 +117,31 @@
 
 <hr />
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
 
-<p align="center">
+<div align="center">
 
-✅ React + Spring Boot Full Stack App  
-<br />
-✅ Student Management System  
-<br />
-✅ SQL House Rental Database  
-<br />
-✅ REST API Projects  
-<br />
-✅ Java Mini Projects  
+<a href="https://github.com/developershubham01/MultiAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=MultiAI&theme=react" />
+</a>
 
-</p>
+<a href="https://github.com/developershubham01/cyber-intelligence360">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=cyber-intelligence360&theme=react" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/developershubham01/University-management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=University-management-System&theme=react" />
+</a>
+
+<a href="https://github.com/developershubham01/Github-account-finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developershubham01&repo=Github-account-finder&theme=react" />
+</a>
+
+</div>
 
 <hr />
+
 
 <h3 align="center">⚡ Keep Coding · Keep Growing ⚡</h3>
