@@ -12,7 +12,7 @@
 
 <!-- about me -->
 <p align="center">
-  Hi, I'm <b>Shubham Sharma</b>, Full Stack Developer 💻 (React + Java + Spring Boot + SQL) from India 🇮🇳
+  Hi, I'm <b>Shubham Sharma</b>, Full Stack Developer 💻 (Python + Django + FastAPI + React + SQL + Pandas + ML + OpenAI + Docker + AWS) from India 🇮🇳
   <br /><br />
   🎓 MCA Student (Computer Applications ’27)
   <br />
