@@ -47,27 +47,35 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
+
 <!-- first row -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctypescript&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctypescript&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctypescript&theme=light" alt="skills - 1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctypescript%2Cpython&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctypescript%2Cpython&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctypescript%2Cpython&theme=light" alt="skills - 1" />
 </picture>
 
 <br />
 
 <!-- second row -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cmongodb%2Cmysql%2Cpostgres%2Cpostman&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cmongodb%2Cmysql%2Cpostgres%2Cpostman&theme=light" />
-    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cmongodb%2Cmysql%2Cpostgres%2Cpostman&theme=light" alt="skills - 2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cmongodb%2Cmysql%2Cpostgres%2Cpostman%2Cdjango%2Cflask%2Cfastapi&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cmongodb%2Cmysql%2Cpostgres%2Cpostman%2Cdjango%2Cflask%2Cfastapi&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cmongodb%2Cmysql%2Cpostgres%2Cpostman%2Cdjango%2Cflask%2Cfastapi&theme=light" alt="skills - 2" />
 </picture>
 
+<br />
+
+<!-- third row -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow%2Cpytorch&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tensorflow%2Cpytorch&theme=light" />
+    <img src="https://skillicons.dev/icons?i=tensorflow%2Cpytorch&theme=light" alt="skills - 3" />
+</picture>
 
   </a>
 </p>
 <br />
-
 
 <!-- deployment -->
 <h3 align="center">Deployment</h3>
