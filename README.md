@@ -38,6 +38,10 @@
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+<a href="https://leetcode.com/u/developershubham01/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+</a>
+
 </div>
 
 <hr />
