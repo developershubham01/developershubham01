@@ -4,12 +4,10 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Shubham+Sharma!;+React+%5C+Python+%5C+AI+ML+Developer;&center=true&font=Righteous&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Shubham+Sharma!;+React+Developer;+Python+Developer;+AI+ML+Developer&center=true&font=Righteous&size=30">
   </a>
 </h1>
-
 <br />
-
 <!-- about me -->
 <p align="center">
   Hi, I'm <b>Shubham Sharma</b>, Full Stack Developer 💻 (Python + Django + FastAPI + React + SQL + Pandas + ML + OpenAI + Docker + AWS) from India 🇮🇳
