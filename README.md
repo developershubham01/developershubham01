@@ -127,45 +127,4 @@
 
 <hr />
 
-<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="50%">
-<h3>🚀 MultiAI</h3>
-<p>AI based multi utility web app</p>
-<a href="https://github.com/developershubham01/MultiAI">View Project</a>
-</td>
-
-<td align="center" width="50%">
-<h3>🛡 Cyber Intelligence 360</h3>
-<p>Cyber security & OSINT project</p>
-<a href="https://github.com/developershubham01/cyber-intelligence360">View Project</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<h3>🎓 University Management System</h3>
-<p>Java based management system</p>
-<a href="https://github.com/developershubham01/University-management-System">View Project</a>
-</td>
-
-<td align="center">
-<h3>🔍 Github Account Finder</h3>
-<p>Find GitHub profiles easily</p>
-<a href="https://github.com/developershubham01/Github-account-finder">View Project</a>
-</td>
-
-</tr>
-</table>
-
-<hr />
-
-
-
-
 <h3 align="center">⚡ Keep Coding · Keep Growing ⚡</h3>
